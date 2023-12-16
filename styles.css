@@ -1,2 +1,11 @@
-
 /* Your CSS Code here. */
+body{
+	background-color: #000000;
+	width: 150px;
+	height: 150px;
+}
+p{
+	text-color: #ffffff;
+	margin-left: 32px;
+	padding: 10px;
+}
